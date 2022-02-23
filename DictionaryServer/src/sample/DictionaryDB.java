@@ -1,8 +1,4 @@
-/* Author Hailey Kim
- * Student ID 1021261
- * Distributed Systems 2020 sem-1
- * Assignment 1
- *
+/* 
  * DictionaryDB Class
  * */
 
