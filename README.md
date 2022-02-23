@@ -23,8 +23,12 @@ It consists of three parts. One is process management; multi-threading and reque
 </div> 
   
 ## How to run
+Make sure you modify `filePath` as your DB pathway in `class DictionaryDB` under `/DictionaryServer/src/sample/DictionaryDB.java`, then create separate jar files of the your modified code.
+
+You can find my .jar files under `/DictionaryClient/out/artifacts/` and `/DictionaryServer/out/artifacts/` (Yet, they won't work on your local PC due to the DB filePath)
+
 To start the server<br>
-`java –jar DictionaryServer.jar <port> dic.txt`
+`java –jar DictionaryServer.jar <port>`
 
 To start the client<br>
 `java –jar DictionaryClient.jar <server-address> <server port>`
