@@ -11,14 +11,14 @@ It consists of three parts. One is process management; multi-threading and reque
 <div align="center">
   
 ### Implementation
-<img src="class.png" width= "50%">
+<img src="img/class.png" width= "50%">
 
 ### Interaction between clients and server
-<img src="interaction.png" width= "50%">
+<img src="img/interaction.png" width= "50%">
 
 ### GUI design
 
-<img src="gui.png" width= "50%">
+<img src="img/gui.png" width= "50%">
 
 </div> 
   
